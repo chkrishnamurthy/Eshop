@@ -1,0 +1,8 @@
+--> Project Setup
+--> Eshop Header
+--> Eshop Home Page
+--> Eshop Checkout Page
+--> StateProvider, Reducer, useReducer Hook
+--> Add to Cart,Remove from Cart using State Hooks
+--> Login Page--> Authentication using firebase
+--> Deploying our App
